@@ -1,5 +1,6 @@
 const smallNumber = (number, dec = 1, min = 1000) => {
-  if (!number ||isNaN(number)) throw new Error(`Error: ${number} is not a number`)
+  if (!number) throw new Error(`Error: ${number} is not a number`)
+  if (isNaN(number)) throw new Error(`Error: ${number} is not a number`)
   if (number > Number.MAX_SAFE_INTEGER) throw new Error(`Error: Number is too big`)
   if (number < min) return String(number)
   let str = String(number)
