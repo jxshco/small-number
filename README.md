@@ -1,5 +1,7 @@
 # [small-number](https://github.com/jxshco/small-number) [![Build Status](https://travis-ci.org/jxshco/small-number.svg?branch=master)](https://travis-ci.org/jxshco/small-number) [![npm](https://img.shields.io/npm/dt/small-number.svg)]() [![npm](https://img.shields.io/npm/v/small-number.svg)]()
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jxshco/small-number.svg)](https://greenkeeper.io/)
+
 Easily turn large values into their corresponding number and letter value - 1,300,000 -> 1.3m
 
 ## Contributing
