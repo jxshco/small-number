@@ -1,6 +1,6 @@
 {
   "name": "small-number",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easily turn large values into their corresponding number and letter value - 1,300,000 -> 1.3m",
   "main": "./lib/index.js",
   "scripts": {
