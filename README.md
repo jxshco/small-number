@@ -7,6 +7,7 @@
   <a href="https://www.npmjs.com/package/small-number"><img src="https://img.shields.io/npm/v/small-number.svg" alt="npm version"></a>
   <a href="https://www.npmjs.com/package/small-number"><img src="https://img.shields.io/npm/dt/small-number.svg" alt="npm downloads"></a>
   <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
+  <a href="https://greenkeeper.io/"><img src="https://badges.greenkeeper.io/jxshco/small-number.svg" alt="Greenkeeper badge" /></a>
 </p>
 
 <p align="center">Easily turn large values into their corresponding number and letter value - 1,300,000 -> 1.3m</p>
