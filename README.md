@@ -13,6 +13,8 @@
 
 ## Why?
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jxshco/small-number.svg)](https://greenkeeper.io/)
+
 While working on freelance/agency work I would tend to come accross situations where this was needed. I re-wrote this script each and every time I had a project that needed it, each being different, better and worse.
 
 
