@@ -4,3 +4,4 @@ yarn.lock
 .DS_Store
 lib
 .idea
+yarn-error.log
